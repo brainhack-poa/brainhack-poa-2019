@@ -66,10 +66,10 @@ Matheus Marcon
 
 ## Ideas for Projects
 - Multimodal fMRI
-- Neuroimage group site on github
+- Update Neuroimage group website on github
 - Voxel intensity normalization
 - Machine learning
-
+- SVM
 
 ## Links
 
