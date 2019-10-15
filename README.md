@@ -1,10 +1,10 @@
 # 2019 Brainhack Global @ Porto Alegre 
 
-This is the website with information for the local Porto Alegre branch of [Brainhack Global 2019](http://www.brainhack.org/global2018)
+This is the website with information for the local Porto Alegre branch of [Brainhack Global 2019](http://www.brainhack.org/global2019/)
 
 ## Registration
 
-The cost to participate in Porto Alegre's edition of Brainhack is **R$ 50,00**, instructions to register are available below: 
+The cost to participate in Porto Alegre's edition of Brainhack is **R$ 20,00**, instructions to register are available below: 
 
 [Register Here](https://www.eventbrite.com/e/brainhack-global-porto-alegre-2018-tickets-44489789157)
 
@@ -12,9 +12,9 @@ The cost to participate in Porto Alegre's edition of Brainhack is **R$ 50,00**, 
 
 ## Key Dates
 
-- Sunday 18th April: Registration Opens
-- Tuesday 2nd May: Registration Closes
-- Friday - Saturday, 4 - 5 May: Brainhack @ Porto Alegre
+- *** October: Registration Opens
+- *** November: Registration Closes
+- Wednesday - Thursday , 13 - 14 November: Brainhack @ Porto Alegre
 
 ## Support
 
@@ -25,23 +25,27 @@ The cost to participate in Porto Alegre's edition of Brainhack is **R$ 50,00**, 
 
 ## Local Schedule
 
-### Friday 4th May
+### Wednesday 13th November
 
+- 8:00  - BrainHack Registratin
 - 9:00  - BrainHack Opening
 - 9:30  - [Welcome to BrainHack](https://github.com/brainhack-poa/brainhack-poa-2018/blob/master/BrainHack2018-Apresentacao.pdf)
-- 10:00 - Introduction of Participants and Project Pitch
-- 10:30 - Morning Talk: [Github and Versioning](https://github.com/brainhack-poa/brainhack-poa-2018/blob/master/brainhack-git-2018.pdf)- Felipe Meneguzzi, PhD
-- 11:00 - Coffee
-- 11:20 - Open Hacking (ongoing)
-- 12:30 - Lunch
-- 17:00 - Update talks (5 minute project talks)
-- 18:00 - Adjourn / Tchau
+- 10:00 - Morning Talk: [Github and Versioning](https://github.com/brainhack-poa/brainhack-poa-2018/blob/master/brainhack-git-2018.pdf)- Felipe Meneguzzi, PhD
+- 11:00 - Pytorch Tutorial: Introduction to Deep Learning using Jupyter Notebook - Laura Tomaz
+- 12:00 - Lunch
+- 14:00 - Pytorch Tutorial: Deep Learning for Neuroimage - Matheus Marcon
+- 15:00 - Open Hacking (Projects Definition)
+- 17:00 - Adjourn / Tchau
 
-### Saturday 5th May
+### Thursday 14th November
 
-- 9:00  - Doors Open / Open Hacking 
-- 12:30 - Lunch
-- 16:00 - Final Presentations (15min per group)
+- 8:00  - Doors Open 
+- 8:30  - Morning Talk: Image Preprocessing - Nathalia Esper
+- 10:00 - Open Hacking
+- 12:00 - Lunch
+- 14:00 - Afternoon Talk: AI in Healthcare - Felipe Meneguzzi, PhD
+- 15:00 - Open Hacking
+- 17:00 - Final Presentations (15min per group)
 - 18:00 - Adjourn / Tchau 
 
 
@@ -59,21 +63,13 @@ Augusto Buchweitz, PhD
 
 Nathalia Bianchini Esper, MS
 
-Laura Thomaz, MS
+Laura Tomaz, MS
 
 Matheus Marcon
 
 
 ## Ideas for Projects
 - Multimodal fMRI
-- Update Neuroimage group website on github
 - Voxel intensity normalization
-- Machine learning
 - SVM
-
-## Links
-
-[Chatter in the world](https://brainhack-slack-invite.herokuapp.com/)
-[Chatter in Porto Alegre](https://brainhack.slack.com/messages/brainhack-poa-2018/)
-[Video at other sites](https://hackpad.com/Brainhack-Global-2017-Video-Content-ZP53JJlhGyJ)
-
+- CNNs for brain segmentation
