@@ -18,9 +18,9 @@ The cost to participate in Porto Alegre's edition of Brainhack is **R$ 30,00**, 
 
 ## Support
 
-| Site Support  | School Support|
+| Site Support  | School Support| School Support |
 | ------------- |:-------------:|
-| ![alt text](logo_ages.png)         | ![alt text](logo_politecnica.png) |
+| ![alt text](logo_ages.png)         | ![alt text](logo_politecnica.png) | ![alt text](logo_inscer.ai) |
 
 
 ## Local Schedule
