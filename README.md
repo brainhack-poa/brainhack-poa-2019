@@ -40,7 +40,7 @@ The cost to participate in Porto Alegre's edition of Brainhack is **R$ 30,00**, 
 ### Thursday 14th November
 
 - 8:00  - Doors Open 
-- 8:30  - Morning Talk: Image Preprocessing - Nathalia Esper
+- 8:30  - Morning Talk: How Brain changes with Reading - Mariana Terra Teixeira
 - 10:00 - Open Hacking
 - 12:00 - Lunch
 - 14:00 - [Afternoon Talk: AI in Healthcare](https://github.com/brainhack-poa/brainhack-poa-2019/blob/master/pucrs-ai-healthcare.pdf) - Felipe Meneguzzi, PhD
