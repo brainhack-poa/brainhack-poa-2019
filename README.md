@@ -33,7 +33,7 @@ The cost to participate in Porto Alegre's edition of Brainhack is **R$ 30,00**, 
 - 10:00 - Morning Talk: [Github and Versioning](https://github.com/brainhack-poa/brainhack-poa-2019/blob/master/brainhack-git-2019.pdf)- Felipe Meneguzzi, PhD
 - 11:00 - Pytorch Tutorial: [Introduction to Deep Learning using Jupyter Notebook](https://classroom.github.com/a/hwcoDGbv) - Laura Tomaz
 - 12:00 - Lunch
-- 14:00 - Pytorch Tutorial: Deep Learning for Neuroimage - Matheus Marcon
+- 14:00 - [Pytorch Tutorial: Deep Learning for Neuroimage](https://classroom.github.com/a/6iOED0VS) - Matheus Marcon
 - 15:00 - Open Hacking (Projects Definition)
 - 17:00 - Adjourn / Tchau
 
